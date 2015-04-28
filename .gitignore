@@ -1,0 +1,9 @@
+*.pdf
+*.docx
+*.odt
+*.png
+*.sq3
+*~*
+*~
+data/*.txt
+requestResult/*.txt
